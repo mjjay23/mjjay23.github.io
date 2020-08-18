@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mjjay23.github.io
+Token: f14f7dc74c2fe71a43734243a619473afaedf9126b6c08015fa4b9ff024e3953
